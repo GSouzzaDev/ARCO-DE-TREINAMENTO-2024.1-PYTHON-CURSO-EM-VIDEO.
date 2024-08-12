@@ -1,3 +1,6 @@
+#Peça o nome do usuário, de boas vindas com seu nome.
+#Peça sua data de nascimento e a ordene.
+#Some dois números inteiros.
 nome=input('Qual o seu nome?')
 print('Bem vindo(a)', nome)
 
